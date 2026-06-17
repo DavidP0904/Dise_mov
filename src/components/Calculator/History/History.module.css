@@ -1,6 +1,6 @@
 /* src/components/Calculator/History/History.module.css */
 .historyContainer {
-  background-color: #ffffff;
+  background-color: #6e7e86;
   border-radius: 12px;
   padding: 15px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
@@ -19,7 +19,7 @@
 
 .header h3 {
   font-size: 1rem;
-  color: #4a5568;
+  color: #000000;
 }
 
 .clearBtn {
@@ -62,5 +62,5 @@
 
 .result {
   font-weight: 600;
-  color: #2d3748;
+  color: #000000;
 }
